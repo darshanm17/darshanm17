@@ -11,7 +11,7 @@ Welcome aboard to my GitHub vessel! Prepare to embark on a coding journey filled
 - ⚡ Shiver me timbers! Fun fact: When I'm not sailing the vast seas of code, I'm out exploring new hiking trails, searching for buried treasure (or just a good spot for a picnic)!
 # My LeetCode Profile Badge
 
-[![LeetCode Profile](https://img.shields.io/badge/DARSHANm17?style=flat&logo=leetcode)](https://leetcode.com/DARSHANm17/)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={DARSHANm17})
 
 ## Description
 
