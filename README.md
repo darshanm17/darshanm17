@@ -9,11 +9,14 @@ Welcome aboard to my GitHub vessel! Prepare to embark on a coding journey filled
 - 📫 How to send a message in a bottle: [darshanmrd17@gmail.com](mailto:darshanmrd17@gmail.com)
 - 😄 Pronouns: He/Him/His (or Cap'n, if ye be feelin' fancy)
 - ⚡ Shiver me timbers! Fun fact: When I'm not sailing the vast seas of code, I'm out exploring new hiking trails, searching for buried treasure (or just a good spot for a picnic)!
-# My LeetCode Profile Badge
+# My LeetCode Profile Profile
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-DARSHANm17-blue?style=flat&logo=leetcode)](https://leetcode.com/DARSHANm17/)
-# My HackerRank Certificates
+# My HackerRank Profile
 
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-darshanmrd17-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/darshanmrd17)
 
+# My GeeksforGeeks Profile
+
+[![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-darshan9jjj-orange?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/darshan9jjj/profile)
 
