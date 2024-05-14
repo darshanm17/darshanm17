@@ -21,7 +21,7 @@ Welcome to the sanctuary of my digital vigilance! Prepare to navigate the perilo
 
 Fear not, for the Night Coder stands vigilant, a guardian in the shadows, ensuring that justice prevails in the realm of ones and zeros.
 
-# My LeetCode Profile Profile
+# My LeetCode Profile 
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-DARSHANm17-blue?style=flat&logo=leetcode)](https://leetcode.com/DARSHANm17/)
 # My HackerRank Profile
