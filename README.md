@@ -11,17 +11,4 @@ Welcome aboard to my GitHub vessel! Prepare to embark on a coding journey filled
 - ⚡ Shiver me timbers! Fun fact: When I'm not sailing the vast seas of code, I'm out exploring new hiking trails, searching for buried treasure (or just a good spot for a picnic)!
 # My LeetCode Profile Badge
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={DARSHANm17}&theme={github-dark}" alt="LeetCode Badges"/>
-
-## Description
-
-This repository contains my LeetCode profile badge. Click on the badge above to visit my LeetCode profile.
-
-## Usage
-
-You can embed this badge in your own projects or profiles to showcase your LeetCode profile. Simply copy the markdown below and replace `YourProfileName` with your actual LeetCode profile name.
-
-```markdown
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-YourProfileName-blue?style=flat&logo=leetcode)](https://leetcode.com/YourProfileName/)
-
-Batten down the hatches and join me on this swashbuckling coding adventure! Arrr!
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-DARSHANm17-blue?style=flat&logo=leetcode)](https://leetcode.com/DARSHANm17/)
