@@ -12,3 +12,8 @@ Welcome aboard to my GitHub vessel! Prepare to embark on a coding journey filled
 # My LeetCode Profile Badge
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-DARSHANm17-blue?style=flat&logo=leetcode)](https://leetcode.com/DARSHANm17/)
+# My HackerRank Certificates
+
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-darshanmrd17-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/darshanmrd17)
+
+
