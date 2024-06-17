@@ -23,14 +23,14 @@ Fear not, for the Night Coder stands vigilant, a guardian in the shadows, ensuri
 # My Portfolio:
 [![Portgolio](https://img.shields.io/badge/Darshan's-Portfolio-red?style=flat)](https://darshanmportfoliyo.netlify.app/)
 
-# My LeetCode Profile 
+# My LeetCode Profile:
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-DARSHANm17-blue?style=flat&logo=leetcode)](https://leetcode.com/DARSHANm17/)
-# My HackerRank Profile
+# My HackerRank Profile:
 
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-darshanmrd17-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/darshanmrd17)
 
-# My GeeksforGeeks Profile
+# My GeeksforGeeks Profile:
 
 [![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-darshan9jjj-orange?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/darshan9jjj/profile)
 
