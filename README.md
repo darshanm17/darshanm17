@@ -33,4 +33,4 @@ Fear not, for the Night Coder stands vigilant, a guardian in the shadows, ensuri
 # My GeeksforGeeks Profile:
 
 [![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-darshan9jjj-orange?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/darshan9jjj/profile)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={DARSHANm17})
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={DarshanM})
