@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>A passionate <b>Java Developer</b>, <b>React Enthusiast</b>, and <b>Problem Solver</b> 🚀</em>
+  <em>A passionate <b>Associate SDET at Crestron</b> 🚀 | <b>Java Developer</b> | <b>React Enthusiast</b> | <b>Problem Solver</b></em>
 </p>
 
 ---
@@ -13,12 +13,14 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as an **Automation Tester Intern at Crestron**
-- 🌱 I’m learning **Selenium, Robot Framework, and System Automation**
-- 👯 I love contributing to **open source projects**
-- 💻 Most used language: **Java**
+- 🔭 I’m currently working as an **Associate SDET at Crestron India**
+- 👨‍💻 I focus on **automation testing**, **Robot Framework**, and **API automation**
+- 🌱 Constantly learning **Selenium**, **Python**, and **desktop automation**
+- 👯 I love contributing to **open source** and building side projects
+- 💻 Skilled in **Java, SQL, Git, React, and Testing Tools**
 - 📫 Reach me at: **darshanmrd17@gmail.com**
-- 💡 Fun fact: I love 🎧 music, 🏏 cricket, and coding 100 days in a row!
+- 🏆 Achievements: 100 Days of Code, Top 35% LeetCode, Top 3 @ GFG College Leaderboard
+- ⚡ Fun fact: I love 🎧 music, 🏏 cricket, and coding deep into the night!
 
 ---
 
@@ -26,16 +28,16 @@
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-333333?style=flat&logo=robotframework)
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darshanm17&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -46,16 +48,7 @@
 </p>
 
 ---
-### 🏅 GitHub Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Arctic%20Code%20Vault%20Contributor-0D1117?style=for-the-badge&logo=github&labelColor=2ea44f&color=0d1117" />
-  <img src="https://img.shields.io/badge/-Pull%20Shark-0D1117?style=for-the-badge&logo=github&labelColor=6f42c1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-Galaxy%20Brain-0D1117?style=for-the-badge&logo=github&labelColor=f9c513&color=0d1117" />
-  <img src="https://img.shields.io/badge/-YOLO-0D1117?style=for-the-badge&logo=github&labelColor=FF69B4&color=0d1117" />
-</p>
-
----
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -72,3 +65,20 @@
 
 ---
 
+### 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darshanm17/darshanm17/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+### 🏅 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/users/darshanm17/achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90px" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="90px" />
+  </a>
+</p>
