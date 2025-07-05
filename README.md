@@ -77,8 +77,6 @@
 
 <p align="center">
   <a href="https://github.com/users/darshanm17/achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90px" />
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" />
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="90px" />
   </a>
 </p>
