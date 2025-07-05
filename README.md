@@ -1,35 +1,70 @@
+<h1 align="center">
+  Hi there 👋 I'm Darshan!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
-# Darshan: "The Code Knight Rises"
-🦇 Greetings, citizens of the cybernetic underworld! I am Darshan, the Night Coder, lurking within the shadowy confines of my GitHub Batcave! 👨‍💻✨
+<p align="center">
+  <em>A passionate <b>Java Developer</b>, <b>React Enthusiast</b>, and <b>Problem Solver</b> 🚀</em>
+</p>
 
-Welcome to the sanctuary of my digital vigilance! Prepare to navigate the perilous maze of code, where every algorithm is a puzzle and every function, a piece of justice. Here's the dossier:
+---
 
-🔭 Currently prowling the dark recesses of React and Java, crafting digital wonders that cast a pall over bugs and glitches!
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-🌱 Delving into the arcane mysteries of data structures and algorithms, wielding the legendary language of Java like a beacon in the night!
+### 🙋‍♂️ About Me
 
-👯 Calling upon stalwart allies to unite against the forces of chaos, for together, we shall disrupt the very fabric of the virtual realm!
+- 🔭 I’m currently working as an **Automation Tester Intern at Crestron**
+- 🌱 I’m learning **Selenium, Robot Framework, and System Automation**
+- 👯 I love contributing to **open source projects**
+- 💻 Most used language: **Java**
+- 📫 Reach me at: **darshanmrd17@gmail.com**
+- 💡 Fun fact: I love 🎧 music, 🏏 cricket, and coding 100 days in a row!
 
-💬 Curious about the clandestine arts of frontend sorcery or the covert escapades of academic life? Speak, and the Dark Knight shall shed light upon thy inquiries!
+---
 
-📫 How to send a signal in the night: darshanmrd17@gmail.com
+### 🛠️ Languages and Tools
 
-😄 Pronouns: He/Him/His (or Dark Knight, if ye be feeling theatrical)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-⚡ By the bats of Gotham! Fun fact: When I'm not waging war on the digital front, I traverse the uncharted territories of nature, seeking hidden treasures (or merely a tranquil setting for reflection)!
+---
 
+### 📊 GitHub Stats & Activity
 
-Fear not, for the Night Coder stands vigilant, a guardian in the shadows, ensuring that justice prevails in the realm of ones and zeros.
-# My Portfolio:
-[![Portgolio](https://img.shields.io/badge/Darshan's-Portfolio-red?style=flat)](https://darshanmportfoliyo.netlify.app/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanm17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanm17&theme=radical" alt="Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanm17&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-# My LeetCode Profile:
+---
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-DARSHANm17-blue?style=flat&logo=leetcode)](https://leetcode.com/DARSHANm17/)
-# My HackerRank Profile:
+### 🏆 GitHub Trophies
 
-[![HackerRank Profile](https://img.shields.io/badge/HackerRank-darshanmrd17-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/darshanmrd17)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darshanm17&theme=tokyonight&row=2&column=3" alt="GitHub Trophies" />
+</p>
 
-# My GeeksforGeeks Profile:
+---
 
-[![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-darshan9jjj-orange?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/darshan9jjj/profile)
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=darshanm17&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Snake Eating Contributions
+
+<p align="center">
+  <img src="https://github.com/darshanm17/darshanm17/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
