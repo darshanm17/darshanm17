@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/-YOLO-0D1117?style=for-the-badge&logo=github&labelColor=FF69B4&color=0d1117" />
 </p>
 
+---
 ### 🏆 GitHub Trophies
 
 <p align="center">
