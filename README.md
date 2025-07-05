@@ -46,6 +46,14 @@
 </p>
 
 ---
+### 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Arctic%20Code%20Vault%20Contributor-0D1117?style=for-the-badge&logo=github&labelColor=2ea44f&color=0d1117" />
+  <img src="https://img.shields.io/badge/-Pull%20Shark-0D1117?style=for-the-badge&logo=github&labelColor=6f42c1&color=0d1117" />
+  <img src="https://img.shields.io/badge/-Galaxy%20Brain-0D1117?style=for-the-badge&logo=github&labelColor=f9c513&color=0d1117" />
+  <img src="https://img.shields.io/badge/-YOLO-0D1117?style=for-the-badge&logo=github&labelColor=FF69B4&color=0d1117" />
+</p>
 
 ### 🏆 GitHub Trophies
 
