@@ -58,7 +58,12 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanm17&theme=react-dark&hide_border=true" />
+### 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darshanm17/darshanm17/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 </p>
 
 ---
